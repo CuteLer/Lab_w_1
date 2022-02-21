@@ -1,0 +1,11 @@
+C:\Users\valer\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\valer\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\valer\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\valer\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\valer\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\valer\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\valer\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\valer\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
